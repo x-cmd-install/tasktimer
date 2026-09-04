@@ -7,7 +7,7 @@ about:
   head: 8e154ac
   archived: true
   latestVersion: v1.12.0
-  collectedAt: 2026-09-04T19:25:02Z
+  collectedAt: 2026-09-04T21:09:31Z
 timeline:
   created: 2021-01-15
   lastCommit: 2026-07-07
@@ -81,6 +81,39 @@ total:
   openIssue: 1
   commit: 281
 ---
+path: /home/runner/.x-repo/github.com/caarlos0/tasktimer
+collectedAt: 2026-09-04T21:09:32Z
+loc:
+  Go:
+    code: 1007
+    comments: 12
+    blanks: 168
+    files: 19
+  Yaml:
+    code: 18
+    comments: 1
+    blanks: 1
+    files: 1
+  Sh:
+    code: 11
+    comments: 2
+    blanks: 0
+    files: 2
+  Svg:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 105
+    blanks: 54
+    files: 2
+total:
+  code: 1037
+  comments: 120
+  blanks: 223
+  files: 25
 ---
 date: "2026-08-24"
 repo:
