@@ -5,13 +5,13 @@ about:
   head: 8e154ac
   archived: true
   latestVersion: "v1.12.0"
-  collectedAt: 2026-09-07T06:18:10Z
+  collectedAt: 2026-09-07T18:15:14Z
 timeline:
   created: 2021-01-15
   lastCommit: 2026-07-07
   lastRelease: 2026-01-10
 popularity:
-  star: 455
+  star: 454
   watcher: 2
   fork: 11
   release: 25
@@ -80,7 +80,7 @@ total:
   commit: 281
 ---
 path: /home/runner/.x-repo/github.com/caarlos0/tasktimer
-collectedAt: 2026-09-07T06:18:11Z
+collectedAt: 2026-09-07T18:15:15Z
 loc:
   Go:
     code: 1007
@@ -213,7 +213,7 @@ checks:
       - 'Warn: 0 commits out of 29 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T06:18:11+00:00
+  collectedAt: 2026-09-07T18:15:16+00:00
   platform:
     darwin/arm64:
       name:  tt_darwin_all.tar.gz
