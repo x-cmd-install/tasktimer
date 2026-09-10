@@ -1,72 +1,72 @@
 # tasktimer
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
-> ⚠️ This project is archived.
+> ⚠️ 此项目已归档（archived）。
 
 Task Timer (tt) is a dead simple TUI task timer
 
-![tasktimer](https://repo.x-cmd.io/tasktimer.svg)
+![tasktimer](https://repo.x-cmd.io/tasktimer.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install tasktimer
 ```
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/caarlos0/tasktimer>
-- **License**: MIT
+- **上游仓库**: <https://github.com/caarlos0/tasktimer>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v1.12.0` (2026-01-10)
-- **Last commit**: 2026-07-07
-- **Assets in release**: 13
+- **最新版本**: `v1.12.0` (2026-01-10)
+- **最近提交**: 2026-07-07
+- **Release 含资产**: 13 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 454 · **Forks**: 11 · **Open issues**: 6 · **Contributors**: 6
+- **Star**: 454 · **Fork**: 11 · **开放 issue**: 6 · **贡献者**: 6
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 25 · **Merged PRs**: 195 · **Open PRs**: 2 · **Closed issues**: 5 · **Open issues**: 1 · **Commits**: 281
+- **发布数**: 25 · **已合并 PR**: 195 · **开放 PR**: 2 · **已关闭 issue**: 5 · **开放 issue**: 1 · **提交数**: 281
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 3 | 0 | 0 | 0 | 3 |
 | 360d | 2025-09-15 | 1 | 16 | 2 | 1 | 0 | 17 |
 
-## Code size
+## 代码规模
 
-Total: **1,037** lines of code across **25** files in the top 5 languages.
+合计: **1,037** 行代码（覆盖前 5 种语言、共 **25** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 1,007 | 12 | 168 | 19 |
 | Yaml | 18 | 1 | 1 | 1 |
 | Sh | 11 | 2 | 0 | 2 |
 | Svg | 1 | 0 | 0 | 1 |
 | Markdown | 0 | 105 | 54 | 2 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **3.6 / 10**
+总评分: **3.6 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 0/2 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — project is archived
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [checksums.txt](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/checksums.txt) | 963 B | `other` |
 | [checksums.txt.sigstore.json](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/checksums.txt.sigstore.json) | 9.4 KiB | `other` |
 | [tt-1.12.0-1.aarch64.rpm](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/tt-1.12.0-1.aarch64.rpm) | 6.4 MiB | `runtime/rpm/aarch64` |
@@ -81,13 +81,13 @@ Lowest-scoring checks:
 | [tt_windows_amd64.zip](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/tt_windows_amd64.zip) | 6.9 MiB | `native/win/x64` |
 | [tt_windows_arm64.zip](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/tt_windows_arm64.zip) | 6.2 MiB | `native/win/arm64` |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for tasktimer lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tasktimer` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+tasktimer 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `tasktimer` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tasktimer.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/tasktimer.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T18:29:12Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T18:29:13Z._
