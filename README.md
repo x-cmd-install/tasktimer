@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-23 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last180d | 2026-03-25 | 0 | 8 | 2 | 0 | 0 | 8 |
-| 360d | 2025-09-26 | 1 | 15 | 2 | 1 | 0 | 16 |
-| last720d | 2024-10-01 | 1 | 55 | 2 | 1 | 0 | 57 |
+| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-24 | 0 | 3 | 0 | 0 | 0 | 3 |
+| last180d | 2026-03-26 | 0 | 8 | 2 | 0 | 0 | 8 |
+| 360d | 2025-09-27 | 1 | 15 | 2 | 1 | 0 | 16 |
+| last720d | 2024-10-02 | 1 | 55 | 2 | 1 | 0 | 57 |
 
 ## Release assets
 
@@ -93,4 +93,4 @@ Install metadata for tasktimer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:32:07Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:40:45Z._
