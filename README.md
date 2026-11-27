@@ -59,12 +59,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-30 | 0 | 4 | 0 | 0 | 0 | 4 |
-| 360d | 2025-12-01 | 1 | 13 | 2 | 1 | 0 | 14 |
-| last720d | 2024-12-06 | 1 | 46 | 2 | 1 | 0 | 47 |
+| 30d | 2026-10-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-29 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-31 | 0 | 4 | 0 | 0 | 0 | 4 |
+| 360d | 2025-12-02 | 1 | 13 | 2 | 1 | 0 | 14 |
+| last720d | 2024-12-07 | 1 | 46 | 2 | 1 | 0 | 47 |
 
 ## Release assets
 
@@ -84,6 +84,14 @@ Lowest-scoring checks:
 | [tt_windows_amd64.zip](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/tt_windows_amd64.zip) | 6.9 MiB | `native/win/x64` |
 | [tt_windows_arm64.zip](https://github.com/caarlos0/tasktimer/releases/download/v1.12.0/tt_windows_arm64.zip) | 6.2 MiB | `native/win/arm64` |
 
+## Distribution status
+
+Reported by **7** distros on [repology.org](https://repology.org/project/tasktimer). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Nix unstable | `1.12.0` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for tasktimer lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tasktimer` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -93,4 +101,4 @@ Install metadata for tasktimer lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:21:57Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:42:39Z._
